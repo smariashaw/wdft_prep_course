@@ -1,0 +1,17 @@
+.box {
+    width: 200px;
+    height: 110px;
+    padding-top: 10px;
+    padding-right: 20px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    margin: 30px;
+    border: 2px dotted;
+    color: white;
+    background: darkgray;
+
+}
+
+.box box 1 {
+
+}

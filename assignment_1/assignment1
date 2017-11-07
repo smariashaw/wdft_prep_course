@@ -2,17 +2,16 @@
 Exercise #1
 Create a variable named "numbers" and assign an empty array to it.
 */
-var numbers = [];
-console.log(numbers);
+var numbers;
+console.log ('hello world')
 
 
 /*
 Exercise #2
 Using the loop provided for you below, use the array push method to insert the numbers 1 to 10 into the array.
 */
-var numbers=[10];
+
 for(var i=0;i<10;i++){
-    numbers[i]=
     //use the array push() method here.
 }
 

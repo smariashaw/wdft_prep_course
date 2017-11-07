@@ -1,0 +1,20 @@
+.box-top{
+    width: 200px;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    background: lightgray;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    margin-left: 33px;
+
+}
+
+.box-bottom{
+    width: 200px;
+    margin-left: 33px;
+    border: 10px solid lightgray;
+
+
+}

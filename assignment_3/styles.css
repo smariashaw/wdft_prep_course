@@ -1,1 +1,57 @@
+.box1{
+    background-color: rgb(226, 67, 67);
+    height: 150px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
 
+.name{
+    top: 60px;
+    right:16px;
+    font-family: Cambria, Cochin, Georgia, Times, Times New Roman, serif;
+    font-size: 50px;
+    float: right;
+    position: relative;
+
+}
+.objective{
+
+    width: 200px;
+    height: 200px;
+    float: left;
+    font-family: Cambria, Cochin, Georgia, Times, Times New Roman, serif;
+    margin-left: 20px;
+    display: block;
+}
+.line1{
+    text-decoration:underline;
+    text-decoration-color: rgb(226, 67, 67);
+
+}
+
+.line2{
+    text-decoration: underline;
+    text-decoration-color: rgb(226, 67, 67);
+}
+
+
+.experience{
+    width: 600px;
+    height: 300px;
+    font-family: Cambria, Cochin, Georgia, Times, Times New Roman, serif;
+    display: inline-block;
+    margin-left: 200px;
+    
+    
+}
+.line3{
+    text-decoration: underline;
+    text-decoration-color: rgb(226, 67, 67);
+}
+.line4{
+    text-decoration: underline;
+    text-decoration-color: rgb(226, 67, 67);
+}
+.information{
+    margin-left: 20px;
+}
