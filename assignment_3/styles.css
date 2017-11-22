@@ -1,48 +1,48 @@
+
+
+
 .box1{
     background-color: rgb(226, 67, 67);
-    height: 150px;
+    height: 20vh;
+    background-size: cover;
+    background-position: center;
+    width: 90%;
+    position: relative;
     margin-left: 20px;
-    margin-right: 20px;
 }
 
 .name{
-    top: 60px;
-    right:16px;
     font-family: Cambria, Cochin, Georgia, Times, Times New Roman, serif;
-    font-size: 50px;
-    float: right;
-    position: relative;
-
+    font-size: 60px;
 }
-.objective{
 
-    width: 200px;
-    height: 200px;
-    float: left;
+.objective{
     font-family: Cambria, Cochin, Georgia, Times, Times New Roman, serif;
     margin-left: 20px;
-    display: block;
+    margin-bottom: 70px;
 }
+
+
 .line1{
     text-decoration:underline;
     text-decoration-color: rgb(226, 67, 67);
-
+    font-family: Cambria, Cochin, Georgia, Times, Times New Roman, serif;
+    
 }
 
 .line2{
     text-decoration: underline;
     text-decoration-color: rgb(226, 67, 67);
+    
+    
 }
 
 
 .experience{
-    width: 600px;
-    height: 300px;
     font-family: Cambria, Cochin, Georgia, Times, Times New Roman, serif;
-    display: inline-block;
-    margin-left: 200px;
+    margin-left: 20px;
     
-    
+      
 }
 .line3{
     text-decoration: underline;
@@ -51,7 +51,10 @@
 .line4{
     text-decoration: underline;
     text-decoration-color: rgb(226, 67, 67);
+    margin-top: 50px;
 }
 .information{
-    margin-left: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, Times New Roman, serif;
+    font-size: 30px;
+    
 }
